@@ -1,0 +1,75 @@
+date,store_number,zip_code,category_name,item_number,item_description,pack,bottle_volume_ml,bottles_sold,sale_dollars,volume_sold_liters
+"2019-11-27 00:00:00",2601,52556.0,"Triple Sec",86251,"Juarez Triple Sec",12,1000,6,21.78,6
+"2019-12-02 00:00:00",4962,52803.0,"Neutral Grain Spirits",41844,"Everclear Alcohol",24,375,3,18.9,1.12
+"2016-01-26 00:00:00",2641,51501,"MISCELLANEOUS SCHNAPPS",81124,"99 Peppermint Mini",10,600,2,17.82,1.2
+"2016-01-25 00:00:00",3162,52761,"PEACH SCHNAPPS",82847,"Dekuyper Peachtree",12,1000,4,45.72,4
+"2016-02-01 00:00:00",2633,50320,"DISTILLED SPIRITS SPECIALTY",973627,"Di Amore Quattro Orange",12,1000,120,1755.6,120
+"2018-12-20 00:00:00",2544,50158,"Coffee Liqueurs",67557,"Kamora Coffee Liqueur",12,1000,6,75.54,6
+"2016-06-30 00:00:00",2571,50703,"DECANTERS & SPECIALTY PACKAGES",168,"Pinnacle Peach w/ Punch Dispenser",6,750,180,1985.4,135
+"2019-12-10 00:00:00",5446,51247.0,"Triple Sec",86112,"Dekuyper Triple Sec",12,1000,6,21,6
+"2016-02-02 00:00:00",2562,50501,"100 PROOF VODKA",38176,"Titos Vodka",12,750,108,1563.84,81
+"2016-02-09 00:00:00",4559,50461,"100 PROOF VODKA",35918,"Five O'clock Vodka",6,1750,30,324,52.5
+"2016-07-19 00:00:00",2576,50588,"ROOT BEER SCHNAPPS",84617,"Phillips Root Beer Schnapps",12,1000,4,33,4
+"2019-03-20 00:00:00",3869,52241,"Gold Rum",43034,"Bacardi Gold",24,375,1,6.75,0.37
+"2019-12-18 00:00:00",4312,51501.0,"Triple Sec",86251,"Juarez Triple Sec",12,1000,48,174.24,48
+"2016-02-11 00:00:00",4829,50314,,48106,"Hennessy Vs Cognac",12,750,60,1709.4,45
+"2016-02-22 00:00:00",4898,52601,,48099,"Hennessy VS",24,200,24,206.64,4.8
+"2016-02-17 00:00:00",3772,50314,,49182,"Remy Martin VSOP",24,100,24,116.64,2.4
+"2016-02-29 00:00:00",4153,50707,"IRISH WHISKIES",15626,Jameson,12,750,60,1349.4,45
+"2017-11-09 00:00:00",4158,51401,"American Sloe Gins",33717,"Paramount Sloe Gin",12,1000,4,32.52,4
+"2018-12-28 00:00:00",5416,50158,"Coffee Liqueurs",67528,"Kahlua Coffee",6,1750,3,112.47,5.25
+"2016-06-30 00:00:00",5102,52314,"DISTILLED SPIRITS SPECIALTY",75087,"Juarez Gold Dss",12,1000,660,4870.8,660
+"2019-12-05 00:00:00",2633,50320.0,"Iowa Distillery Whiskies",926577,"Glen Oaks Whiskey Buy the Barrel",6,750,66,1881,49.5
+"2016-02-09 00:00:00",5166,50158,,48099,"Hennessy VS",24,200,24,206.64,4.8
+"2019-03-25 00:00:00",4867,51501,"Coffee Liqueurs",67524,"Kahlua Coffee",24,375,7,68.18,2.62
+"2019-03-21 00:00:00",5102,52314,"Imported Distilled Spirit Specialty",75087,"Juarez Gold Dss",12,1000,900,6750,900
+"2019-05-02 00:00:00",2647,52411,"Neutral Grain Spirits",41846,"Everclear Alcohol",12,750,36,486,27
+"2018-05-16 00:00:00",5003,52804,"Imported Distilled Spirit Specialty",48690,"Martell VSSD",24,200,2,17.98,0.4
+"2016-02-24 00:00:00",3447,51106,"TRIPLE SEC",86251,"Juarez Triple Sec",12,1000,144,522.72,144
+"2016-02-29 00:00:00",2512,52240,"STRAIGHT RYE WHISKIES",27102,"Templeton Rye",6,750,18,488.52,13.5
+"2019-11-21 00:00:00",2515,50401.0,"Neutral Grain Spirits Flavored",986845,"Ole Smoky Blackberry Moonshine Mini",8,50,48,630.24,2.4
+"2016-01-13 00:00:00",3772,50314,"PEACH BRANDIES",56193,"Paul Masson Peach Grande Amber Brandy",24,200,24,70.56,4.8
+"2018-04-25 00:00:00",3524,50010,"Special Order Items",946574,"Member's Mark Spiced Rum",6,1750,288,3913.92,504
+"2016-02-08 00:00:00",5204,52601,"100 PROOF VODKA",35913,"Five O'clock Vodka",48,200,48,81.6,9.6
+"2017-06-28 00:00:00",3447,51106,"Coffee Liqueurs",67586,"Kapali Coffee Liqueur",12,750,84,720.72,63
+"2017-06-28 00:00:00",2522,51360,"Imported Distilled Spirit Specialty",77487,"Tortilla Gold Dss",12,1000,48,324.96,48
+"2016-07-12 00:00:00",2665,50263,"DECANTERS & SPECIALTY PACKAGES",3135,"Jagermeister w/2 Shot Glasses",12,750,84,1518.72,63
+"2016-07-26 00:00:00",2619,50266,"DECANTERS & SPECIALTY PACKAGES",250,"Avion Silver w/Powell & Mahoney Margarita Mix",6,750,90,3372.3,67.5
+"2019-03-18 00:00:00",4829,50314,"Triple Sec",86251,"Juarez Triple Sec",12,1000,180,653.4,180
+"2019-12-31 00:00:00",3993,50701.0,"Gold Rum",43031,"Bacardi Gold Mini",12,50,4,33.24,0.2
+"2017-01-24 00:00:00",2465,52003,"Gold Rum",43031,"Bacardi Gold Rum Mini",12,500,5,41.55,2.5
+"2016-02-11 00:00:00",2587,50131,"100 PROOF VODKA",38089,"Platinum 7x Vodka",48,100,48,64.32,4.8
+"2019-12-11 00:00:00",5146,50265.0,"Coffee Liqueurs",67526,"Kahlua Coffee",12,750,72,1349.28,54
+"2019-12-12 00:00:00",2515,50401.0,"Neutral Grain Spirits Flavored",86843,"Ole Smoky Salty Caramel Whiskey",6,750,18,270,13.5
+"2016-02-02 00:00:00",3705,51246,"SPEARMINT SCHNAPPS",82187,"Arrow Spearmint Schnapps",12,1000,5,37.5,5
+"2019-01-04 00:00:00",4156,50662,"Neutral Grain Spirits Flavored",86739,"Ole Smoky Apple Pie Moonshine 70prf Mini",8,300,8,105.04,2.4
+"2019-01-11 00:00:00",2178,52172,"Coffee Liqueurs",67524,"Kahlua Coffee",24,375,1,9.74,0.37
+"2017-06-22 00:00:00",2633,50320,"Imported Distilled Spirit Specialty",77487,"Tortilla Gold Dss",12,1000,72,487.44,72
+"2017-07-05 00:00:00",2616,52732,"Gold Rum",45248,"Paramount Gold Rum",6,1750,24,282.24,42
+"2019-03-19 00:00:00",3993,50701,"Gold Rum",43034,"Bacardi Gold",24,375,7,47.25,2.62
+"2019-03-19 00:00:00",2571,50703,"Gold Rum",43034,"Bacardi Gold",24,375,1,6.75,0.37
+"2018-05-16 00:00:00",4971,50327,"Gold Rum",43040,"Bacardi Gold Rum PET",6,1750,102,2295,178.5
+"2019-12-23 00:00:00",2593,51401.0,"Straight Rye Whiskies",27189,"Basil Hayden Dark Rye",6,750,18,637.74,13.5
+"2016-02-29 00:00:00",2636,50317,"PEACH BRANDIES",56193,"Paul Masson Peach Grande Amber Brandy",24,200,24,70.56,4.8
+"2016-07-01 00:00:00",9001,52338,"SINGLE MALT SCOTCH",27357,"Cedar Ridge Single Malt Single Barrel Select",6,750,90,3712.5,67.5
+"2018-05-07 00:00:00",2512,52240,"Triple Sec",86251,"Juarez Triple Sec",12,1000,60,217.8,60
+"2018-05-07 00:00:00",2591,50022,"Triple Sec",86507,"Paramount Triple Sec",12,1000,4,23.04,4
+"2017-06-12 00:00:00",2538,50702,"Special Order Items",917914,"HA Elijah Craig Cask Barrel Proof",3,750,18,807.84,13.5
+"2016-12-22 00:00:00",3447,51106,"Coffee Liqueurs",67527,"Kahlua Coffee Liqueur",12,1000,240,5397.6,240
+"2016-02-04 00:00:00",5113,50703,,48099,"Hennessy VS",24,200,24,206.64,4.8
+"2017-06-23 00:00:00",4291,50801,"Gold Rum",43037,"Bacardi Gold Rum",12,1000,5,71.25,5
+"2019-03-04 00:00:00",4152,51555,"Gold Rum",45247,"Paramount Gold Rum",12,1000,2,13.26,2
+"2019-05-06 00:00:00",2593,51401,"Gold Rum",43031,"Bacardi Gold Mini",12,500,12,99.72,6
+"2016-02-18 00:00:00",5063,50703,"100 PROOF VODKA",37880,"Seagrams Extra Smooth",24,200,24,63.36,4.8
+"2019-11-27 00:00:00",3549,52627.0,"Coffee Liqueurs",67586,"Kapali Coffee Liqueur",12,750,36,237.24,27
+"2019-03-08 00:00:00",3963,51501,"Gold Rum",43031,"Bacardi Gold Mini",12,500,4,33.24,2
+"2019-12-16 00:00:00",4136,50111.0,"American Distilled Spirit Specialty",77805,"Saints N Sinners Apple Pie",12,750,108,1296,81
+"2016-02-03 00:00:00",4057,50316,,48099,"Hennessy VS",24,200,48,413.28,9.6
+"2016-02-15 00:00:00",3494,50702,"DISTILLED SPIRITS SPECIALTY",77487,"Tortilla Gold Dss",12,1000,768,5199.36,768
+"2018-12-31 00:00:00",2643,50701,"Triple Sec",86112,"Dekuyper Triple Sec",12,1000,2,7,2
+"2019-01-22 00:00:00",2843,52402,"Gold Rum",45246,"Paramount Gold Rum",12,750,7,42,5.25
+"2016-08-29 00:00:00",5244,52136,"American Vodka",35917,"Five O'clock Vodka",12,1000,2,75.12,2
+"2019-12-23 00:00:00",2670,52241.0,"Imported Distilled Spirit Specialty",65750,"Maestro Agavero Gold",12,1000,48,504,48
+"2017-11-07 00:00:00",4167,52001,"Coffee Liqueurs",67557,"Kamora Coffee Liqueur",12,1000,4,50.36,4
+"2017-11-14 00:00:00",3385,52402,"Triple Sec",86390,"Montezuma Triple Sec",12,1000,216,691.2,216
+"2016-01-15 00:00:00",4829,50314,"TRIPLE SEC",86251,"Juarez Triple Sec",12,1000,60,217.8,60
